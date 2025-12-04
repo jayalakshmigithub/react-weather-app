@@ -30,10 +30,7 @@ npm install
 npm start
 
 
-Add your API keys in a .env file:
 
-REACT_APP_OPENWEATHER_API_KEY=your_key
-REACT_APP_GEODB_API_KEY=your_key
 
 🔹 Project Structure
 src/
